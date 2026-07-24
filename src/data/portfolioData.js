@@ -1,5 +1,16 @@
 export const projects = [
   {
+    id: 4,
+    title: "2-GATHER",
+    description: "A synchronized media platform for watching YouTube videos and listening to music together in real-time with custom JWT authentication and chat.",
+    tech: ["React", "Node.js", "MongoDB", "Socket.io"],
+    github: "https://github.com/lilflamboy/2-GATHER",
+    live: "https://2-gather.vercel.app/",
+    features: ["Real-time Video Sync", "Live Chat", "Custom JWT Auth"],
+    status: "Completed",
+    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=1074&q=80"
+  },
+  {
     id: 1,
     title: "Home Cake Website",
     description: "A complete website for 'Fabilicious Cakes' allowing users to browse cakes, and an admin panel integrated with Cloudinary for managing gallery images without a database.",
