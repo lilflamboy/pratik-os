@@ -8,7 +8,7 @@ export const projects = [
     live: "https://vidhis-birthday.vercel.app/",
     features: ["3D Memory Carousel", "Interactive Chat UI", "Cinematic Reveal"],
     status: "Completed",
-    image: "https://images.unsplash.com/photo-1530103862676-de8892bf309c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    image: "/birthday-cover.png"
   },
   {
     id: 4,
