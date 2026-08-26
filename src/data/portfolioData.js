@@ -1,5 +1,16 @@
 export const projects = [
   {
+    id: 5,
+    title: "Cinematic Birthday Experience",
+    description: "A highly personalized, interactive birthday website featuring a 3D memory carousel, a Polaroid-style photo gallery, and an animated mobile chat interface.",
+    tech: ["React", "Framer Motion", "Vite"],
+    github: "https://github.com/lilflamboy/birthday-experience",
+    live: "https://birthday-experience.vercel.app/",
+    features: ["3D Memory Carousel", "Interactive Chat UI", "Cinematic Reveal"],
+    status: "Completed",
+    image: "https://images.unsplash.com/photo-1530103862676-de8892bf309c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
     id: 4,
     title: "2-GATHER",
     description: "A synchronized media platform for watching YouTube videos and listening to music together in real-time with custom JWT authentication and chat.",
