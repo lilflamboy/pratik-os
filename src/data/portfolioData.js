@@ -1,5 +1,16 @@
 export const projects = [
   {
+    id: 6,
+    title: "Maheep Singh AI",
+    description: "A quick-witted, deadpan WhatsApp group comeback and roast generator built with Python and Streamlit. Powered by Gemini 3.8 Flash with multi-model fallback and 1-click WhatsApp deep-linking.",
+    tech: ["Python", "Streamlit", "Gemini 3.8 Flash", "Google GenAI SDK"],
+    github: "https://github.com/lilflamboy/maheep-singh-ai",
+    live: "https://maheep-singh-ai-nhgrpsu3upalxffpjnehpj.streamlit.app/",
+    features: ["WhatsApp Chat UI", "Multi-Model Fallback", "1-Click Direct Share"],
+    status: "Completed",
+    image: "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
     id: 5,
     title: "Cinematic Birthday Experience",
     description: "A highly personalized, interactive birthday website featuring a 3D memory carousel, a Polaroid-style photo gallery, and an animated mobile chat interface.",
@@ -82,8 +93,8 @@ export const roadmap = [
   },
   {
     title: "AI Agent",
-    status: "In Progress",
-    description: "Building a personalized coding assistant."
+    status: "Completed",
+    description: "Built Maheep Singh AI WhatsApp banter & comeback generator with Gemini 3.8 Flash."
   },
   {
     title: "Expense Tracker",
@@ -98,7 +109,7 @@ export const roadmap = [
 ];
 
 export const achievements = [
-  { metric: "15+", label: "Projects Completed" },
+  { metric: "16+", label: "Projects Completed" },
   { metric: "12+", label: "Technologies Learned" },
   { metric: "500+", label: "Coding Hours" },
   { metric: "5+", label: "Certifications" }
