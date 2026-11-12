@@ -5,7 +5,7 @@ export const projects = [
     description: "A quick-witted, deadpan WhatsApp group comeback and roast generator built with Python and Streamlit. Powered by Gemini 3.8 Flash with multi-model fallback and 1-click WhatsApp deep-linking.",
     tech: ["Python", "Streamlit", "Gemini 3.8 Flash", "Google GenAI SDK"],
     github: "https://github.com/lilflamboy/maheep-singh-ai",
-    live: "https://maheep-singh-ai-nhgrpsu3upalxffpjnehpj.streamlit.app/",
+    live: "https://maheep-singh-ai.streamlit.app/",
     features: ["WhatsApp Chat UI", "Multi-Model Fallback", "1-Click Direct Share"],
     status: "Completed",
     image: "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
